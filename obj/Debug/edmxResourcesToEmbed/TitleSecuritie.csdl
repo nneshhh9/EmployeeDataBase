@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TitleSecuritieModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Securitie">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="SecuritieID" Type="Int32" Nullable="false" />
+    <Property Name="date" Type="DateTime" Precision="0" />
+    <Property Name="sum" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Table" Relationship="Self.FK_Securitie_ToSecuritie" FromRole="Securitie" ToRole="Table" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="Securities" Relationship="Self.FK_Securitie_ToSecuritie" FromRole="Table" ToRole="Securitie" />
+  </EntityType>
+  <Association Name="FK_Securitie_ToSecuritie">
+    <End Role="Table" Type="Self.Table" Multiplicity="1" />
+    <End Role="Securitie" Type="Self.Securitie" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Table">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Securitie">
+        <PropertyRef Name="SecuritieID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TitleSecuritieEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Securities" EntityType="Self.Securitie" />
+    <EntitySet Name="Tables" EntityType="Self.Table" />
+    <AssociationSet Name="FK_Securitie_ToSecuritie" Association="Self.FK_Securitie_ToSecuritie">
+      <End Role="Table" EntitySet="Tables" />
+      <End Role="Securitie" EntitySet="Securities" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

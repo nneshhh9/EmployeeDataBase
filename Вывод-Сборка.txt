@@ -1,0 +1,4 @@
+﻿Повторная сборка начата…
+1>------ Перестроение всех файлов начато: проект: wpfKozhuhov, Конфигурация: Debug Any CPU ------
+1>  wpfKozhuhov -> d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\wpfKozhuhov.exe
+========== Перестроение всех проектов: успешно: 1, с ошибками: 0, пропущено: 0 ==========

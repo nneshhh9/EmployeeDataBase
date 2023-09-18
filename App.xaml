@@ -1,0 +1,15 @@
+﻿<Application x:Class="wpfKozhuhov.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:wpfKozhuhov"
+             StartupUri="MainWindow.xaml">
+    
+    <Application.Resources>
+        <ImageBrush ImageSource="fon\_fonTitle.jpg" x:Key="_backgroundResurs"></ImageBrush> <!--сотрудники-->
+        <ImageBrush ImageSource="fon\_fonSecurities.png" x:Key="_backgroundSecurities"></ImageBrush> <!--ценные бумаги-->
+        <ImageBrush ImageSource="fon\fon_osn.jpg" x:Key="_backgroundOsnova"></ImageBrush> <!--основная страница-->
+    </Application.Resources>
+</Application>
+
+
+<!--x:Key="_backgroundResurs"-->

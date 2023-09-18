@@ -1,0 +1,115 @@
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.AssemblyReference.cache
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.SuggestedBindingRedirects.cache
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\MainWindow.g.cs
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\PageEmployee.g.cs
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\PageMain.g.cs
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\App.g.cs
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov_MarkupCompile.cache
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov_MarkupCompile.lref
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\wpfKozhuhov.exe.config
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\wpfKozhuhov.exe
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\wpfKozhuhov.pdb
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\App.baml
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\MainWindow.baml
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\PageEmployee.baml
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\PageMain.baml
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.g.resources
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.Properties.Resources.resources
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.GenerateResource.cache
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.CoreCompileInputs.cache
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.exe
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.pdb
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\titleEmployee.mdf
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\titleEmployee_log.ldf
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\EntityFramework.dll
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\EntityFramework.xml
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov_Content.g.cs
+C:\Users\nneshhhh\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.CopyComplete
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\MainWindow.g.cs
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\PageEmployee.g.cs
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\PageMain.g.cs
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\App.g.cs
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov_Content.g.cs
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov_MarkupCompile.cache
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov_MarkupCompile.lref
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov.exe
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov.pdb
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\wpfKozhuhov.exe.config
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\wpfKozhuhov.exe
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\wpfKozhuhov.pdb
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\EntityFramework.dll
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\EntityFramework.SqlServer.dll
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\EntityFramework.xml
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\EntityFramework.SqlServer.xml
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\ru\EntityFramework.resources.dll
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\App.baml
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\MainWindow.baml
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\PageEmployee.baml
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\PageMain.baml
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov.g.resources
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov.Properties.Resources.resources
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.GenerateResource.cache
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.CoreCompileInputs.cache
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.CopyComplete
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\titleEmployee.mdf
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\titleEmployee_log.ldf
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\wpfKozhuhov.exe.config
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\wpfKozhuhov.exe
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\wpfKozhuhov.pdb
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\EntityFramework.dll
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\EntityFramework.xml
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.AssemblyReference.cache
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.SuggestedBindingRedirects.cache
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\MainWindow.g.cs
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\PageEmployee.g.cs
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\PageMain.g.cs
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\App.g.cs
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov_Content.g.cs
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov_MarkupCompile.cache
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov_MarkupCompile.lref
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\App.baml
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\MainWindow.baml
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\PageEmployee.baml
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\PageMain.baml
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov.g.resources
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov.Properties.Resources.resources
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.GenerateResource.cache
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.CoreCompileInputs.cache
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.CopyComplete
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov.exe
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\wpfKozhuhov.pdb
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\PageSecurities.g.cs
+C:\Users\nneshhhh\OneDrive\Рабочий стол\wpfKozhuhov\obj\Debug\PageSecurities.baml
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\PageSecurities.g.cs
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\PageSecurities.baml
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\TitleSecuritie.mdf
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\TitleSecuritie_log.ldf
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\TitleEmployee.mdf
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\bin\Debug\TitleEmployee_log.ldf
+d:\Users\student.VUZ\Desktop\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\MainWindow.g.cs
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\PageEmployee.g.cs
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\PageMain.g.cs
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\PageSecurities.g.cs
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\App.g.cs
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov_Content.g.cs
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov_MarkupCompile.cache
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov_MarkupCompile.lref
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\App.baml
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\MainWindow.baml
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\PageEmployee.baml
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\PageMain.baml
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\PageSecurities.baml
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.g.resources
+C:\Users\vladi\source\repos\wpfKozhuhov\obj\Debug\wpfKozhuhov.pdb
